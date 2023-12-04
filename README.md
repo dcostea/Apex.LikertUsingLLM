@@ -1,4 +1,4 @@
-# Apex.LokertUsingLLM
+# Apex.LikertUsingLLM
 This app is using open source, on premises LLM like LLaMa and LLamaSharp library to measure the quality of answers given to questions considering a ground truth, or best answer.
 
 ## Prompts

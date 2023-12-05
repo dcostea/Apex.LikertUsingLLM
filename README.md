@@ -20,7 +20,7 @@ Answer {{metric}}:
 
 ## LLM Model (compatible with LLamaSharp) used in this demo:
 
-https://huggingface.co/TheBloke/zephyr-7B-beta-GGUF/blob/main/zephyr-7b-beta.Q4_K_M.gguf
+https://huggingface.co/TheBloke/zephyr-7B-beta-GGUF/blob/main/zephyr-7b-beta.Q5_K_M.gguf
 
 ## Nuget libraries
 

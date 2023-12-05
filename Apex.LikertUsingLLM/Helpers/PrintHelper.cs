@@ -74,6 +74,7 @@ public static class PrintHelper
         foreach (var answer in answers)
         {
             Console.WriteLine(answer);
+            Console.WriteLine();
         }
         Console.WriteLine("------------------------------------------------------------------------------------------------------------------------------------------------------------------------");
     }
